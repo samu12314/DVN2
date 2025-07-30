@@ -8,7 +8,7 @@
     body {
       margin: 0;
       font-family: "Comic Sans MS", cursive, sans-serif;
-      background: url('https://www.bing.com/ck/a?!&&p=b70243a8e57a506667ba2666464afeeb95896130b21729c3b31d31c5a3d96e4eJmltdHM9MTc1Mzc0NzIwMA&ptn=3&ver=2&hsh=4&fclid=06ad640a-f79f-6011-3bbf-722cf6e06125&u=a1L2ltYWdlcy9zZWFyY2g_cT1mb25kbythbmltYWRvK2RlK2Ftb3ImaWQ9QTNCQzAzRDg4RDZDMDJBMTM1NzA1RjdDRDEwQUI5M0ZDNEVCQTdFQSZGT1JNPUlBQ0ZJUg&ntb=1') center/cover no-repeat fixed;
+      background: url('https://imgur.com/a/jOwxoZ8') center/cover no-repeat fixed;
       display: flex;
       justify-content: center;
       align-items: center;

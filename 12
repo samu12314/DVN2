@@ -65,12 +65,12 @@
     }
 
     .corazon {
-      background-image: url('https://i.imgur.com/6rGcK7L.png');
+      background-image: url('https://imgur.com/a/jOwxoZ8');
       animation: flotar 10s linear infinite;
     }
 
     .petalo {
-      background-image: url('https://i.imgur.com/jNNT4LE.png'); /* Nueva imagen de pétalo */
+      background-image: url('https://imgur.com/a/jOwxoZ8'); /* Nueva imagen de pétalo */
       animation: caer 12s linear infinite;
     }
 

@@ -8,7 +8,7 @@
     body {
       margin: 0;
       font-family: "Comic Sans MS", cursive, sans-serif;
-      background: url('https://imgur.com/a/jOwxoZ8') center/cover no-repeat fixed;
+      background: url('https://imgur.com/a/jOwxoZ8.png') center/cover no-repeat fixed;
       display: flex;
       justify-content: center;
       align-items: center;
@@ -65,12 +65,12 @@
     }
 
     .corazon {
-      background-image: url('https://imgur.com/a/jOwxoZ8');
+      background-image: url('https://imgur.com/a/jOwxoZ8.png');
       animation: flotar 10s linear infinite;
     }
 
     .petalo {
-      background-image: url('https://imgur.com/a/jOwxoZ8'); /* Nueva imagen de pétalo */
+      background-image: url('https://imgur.com/a/jOwxoZ8.png'); /* Nueva imagen de pétalo */
       animation: caer 12s linear infinite;
     }
 

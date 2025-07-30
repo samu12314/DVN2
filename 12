@@ -116,7 +116,7 @@
 
     function mostrarMensaje() {
       document.getElementById("mensajeFinal").innerHTML =
-        "Feliz día de la novia mi amor, te amo mucho mi princesa hermosa ❤️";
+        "q mira ome";
     }
 
     crearAnimaciones();
